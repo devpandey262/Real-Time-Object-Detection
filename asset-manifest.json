@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/real-time-object-detection/static/css/main.f44e9965.chunk.css",
+    "main.js": "/real-time-object-detection/static/js/main.79e4e3c0.chunk.js",
+    "main.js.map": "/real-time-object-detection/static/js/main.79e4e3c0.chunk.js.map",
+    "runtime-main.js": "/real-time-object-detection/static/js/runtime-main.489cb57a.js",
+    "runtime-main.js.map": "/real-time-object-detection/static/js/runtime-main.489cb57a.js.map",
+    "static/js/2.a1ad45d1.chunk.js": "/real-time-object-detection/static/js/2.a1ad45d1.chunk.js",
+    "static/js/2.a1ad45d1.chunk.js.map": "/real-time-object-detection/static/js/2.a1ad45d1.chunk.js.map",
+    "index.html": "/real-time-object-detection/index.html",
+    "static/css/main.f44e9965.chunk.css.map": "/real-time-object-detection/static/css/main.f44e9965.chunk.css.map",
+    "static/js/2.a1ad45d1.chunk.js.LICENSE.txt": "/real-time-object-detection/static/js/2.a1ad45d1.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/real-time-object-detection/static/media/contact_us_background.f7bfc96b.jpg",
+    "static/media/AI-logo.724ae260.jpg": "/real-time-object-detection/static/media/AI-logo.724ae260.jpg",
+    "static/media/logo_deep_learning.8d0fb886.png": "/real-time-object-detection/static/media/logo_deep_learning.8d0fb886.png",
+    "static/media/logo_tensorflow.67c3416d.png": "/real-time-object-detection/static/media/logo_tensorflow.67c3416d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489cb57a.js",
+    "static/js/2.a1ad45d1.chunk.js",
+    "static/css/main.f44e9965.chunk.css",
+    "static/js/main.79e4e3c0.chunk.js"
+  ]
+}
